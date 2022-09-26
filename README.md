@@ -11,6 +11,7 @@
   <img align="center" alt="Nattan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nattan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nattan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="right" alt="Nattan-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/760594156225167423/1024007168392970272/e593ab0589d5f1b389e4dfbcce2bce20.gif">
 </div>
 
  ##
