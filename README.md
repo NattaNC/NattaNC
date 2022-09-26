@@ -11,7 +11,7 @@
   <img align="center" alt="Nattan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nattan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nattan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <a href="https://im.ge/i/1NZqMP"><img align="right" alt="Rafa-pic" height="150" src="https://i.im.ge/2022/09/26/1NZqMP.gameboy.th.gif" alt="gameboy" border="0"></a>
+  <a href="https://im.ge/i/1NKdFz"><img align="right" alt="Rafa-pic" height="170" src="https://i.im.ge/2022/09/26/1NKdFz.gameboy.th.gif" alt="gameboy" border="0"></a>
 </div>
 
  ##
