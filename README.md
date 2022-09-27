@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/nattanc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NattaNC&show_icons=true&theme=codeSTACKr&include_all_commits=false&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NattaNC&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NattaNC&show_icons=true&theme=codeSTACKr&include_all_commits=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NattaNC&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nattan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,7 +12,7 @@
   <img align="center" alt="Nattan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nattan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <a href="https://im.ge/i/1Pa3SL"><img align="right" alt="nattan-pic" height="150" src="https://i.im.ge/2022/09/27/1Pa3SL.Adventure-Time-BMO-PNG-Photos.md.png" alt="Adventure-Time-BMO-PNG-Photos" border="0"></a>
+  <a href="https://im.ge/i/1Pa3SL"><img align="right" alt="nattan-pic" height="125" src="https://i.im.ge/2022/09/27/1Pa3SL.Adventure-Time-BMO-PNG-Photos.md.png" alt="Adventure-Time-BMO-PNG-Photos" border="0"></a>
 </div>
 
  ##
