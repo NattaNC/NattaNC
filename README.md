@@ -11,7 +11,9 @@
   <img align="center" alt="Nattan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nattan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nattan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img  align="right" alt="Nattan-React" height="180" src="https://static.wikia.nocookie.net/horadeaventurasite/images/8/81/BMO.png/revision/latest?cb=20130708011021&path-prefix=pt-br" border="0"></a>
+  <img align="right" alt="Nattan-React" height="180" src="https://static.wikia.nocookie.net/horadeaventurasite/images/8/81/BMO.png/revision/latest?cb=20130708011021&path-prefix=pt-br" border="0"></a>
+  <img align="center" alt="Nattan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Nattan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
  ##
