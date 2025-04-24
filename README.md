@@ -1,4 +1,4 @@
-## Olá, Meu nome é Nathan, sou Desenvolvedor web (Front-end), BEM VINDO ao meu GitHub!
+## Olá, Meu nome é Nathan, sou Desenvolvedor web (Fullstack), BEM VINDO ao meu GitHub!
 
 <div align="center">
   <a href="https://github.com/nattanc">
